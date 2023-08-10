@@ -3,7 +3,7 @@ import './Rodape.css'
 const Rodape = () => {
     return (
         <footer className='footer'>
-            <section>
+            <section className="icones">
                 <ul>
                     <li><a href="facebook.com" target='_blank'><img src="/imagens/fb.png" alt="" /></a></li>
                 </ul>

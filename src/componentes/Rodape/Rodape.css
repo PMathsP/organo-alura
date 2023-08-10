@@ -7,6 +7,10 @@
     align-items: center;
 }
 
+.icones {
+    display: flex;
+}
+
 .footer ul li {
     display: flex;
     flex-wrap: wrap;
